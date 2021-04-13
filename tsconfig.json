@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ES2015",
+    "moduleResolution": "node",
+    "outDir": "./dist/bin",
+    "removeComments": true,
+    "target": "es2017"
+  },
+  "files": ["bin/exec-file.ts"]
+}
