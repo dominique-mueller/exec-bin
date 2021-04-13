@@ -6,5 +6,5 @@
     "removeComments": true,
     "target": "es2017"
   },
-  "files": ["bin/exec-file.ts"]
+  "files": ["bin/exec-bin.ts"]
 }

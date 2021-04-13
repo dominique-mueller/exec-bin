@@ -1,3 +1,3 @@
 # Changelog
 
-Also see **[GitHub releases](https://github.com/dominique-mueller/exec-file/releases)**.
+Also see **[GitHub releases](https://github.com/dominique-mueller/exec-bin/releases)**.
